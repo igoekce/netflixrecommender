@@ -3,7 +3,7 @@ netflixrecommender
 ---
 
 
-You can find on this link the related presentation. Dor further details please check out the Master Notebook or any branch which has outstanding commits yet.
+You can find on this links the related presentation. For further details please check out the Master Notebook or any branch which has outstanding commits yet.
 
 [Netflix Reveommender Presentation ppt](https://docs.google.com/presentation/d/1jW_e9hiBpEmlzTeJypE5CSKeFynKEnBmYv8B2TMcPiQ/edit?usp=sharing "Netflix Recommender")
 
